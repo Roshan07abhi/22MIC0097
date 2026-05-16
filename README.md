@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Repository Structure
 ├── logging_middleware/            # Reusable logging middleware
@@ -109,3 +110,6 @@ import { Log } from "@/lib/logger";
 Log("frontend", "info",  "page", "All notifications page loaded");
 Log("frontend", "error", "hook", "Fetch failed: HTTP 401");
 ```
+=======
+# 22MIC0097<img width="1916" height="876" alt="image" src="https://github.com/user-attachments/assets/b3b1ce30-cbe2-410f-9182-825c8bb11a11" />
+>>>>>>> eee545e212e3d8cba2e747fbfcf3167c5769796d
